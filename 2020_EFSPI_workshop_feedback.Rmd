@@ -1,5 +1,5 @@
 ---
-title: "4th EFSPI regulatory statistics workshop: summary of feedback"
+title: "5th EFSPI regulatory statistics workshop: summary of feedback"
 author: "Kaspar Rufibach"
 date: '`r Sys.setlocale("LC_TIME", "C"); format(Sys.Date(), "%d %b %Y")`'
 output:
